@@ -100,9 +100,9 @@ I'm an aspiring full-stack developer and a tech all-rounder, skilled in everythi
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinSharma8742&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinSharma8742&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSharma8742&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajsatyam6428&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajsatyam6428&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsatyam6428&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -110,8 +110,8 @@ I'm an aspiring full-stack developer and a tech all-rounder, skilled in everythi
 ### 📈 Activity & Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinSharma8742&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinSharma8742&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajsatyam6428&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajsatyam6428&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
