@@ -100,9 +100,9 @@ I'm an aspiring full-stack developer and a tech all-rounder, skilled in everythi
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=Rajsatyam6428&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajsatyam6428&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Rajsatyam6428&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
 </p>
 
 ---
